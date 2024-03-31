@@ -1,0 +1,7 @@
+pemerataan(date)
+dako(date)
+pc(date)
+komisi(date)
+rapat spek(date)
+livering(date)
+Nilai kontrak(int)
